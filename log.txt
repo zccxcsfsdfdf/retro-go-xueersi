@@ -1,0 +1,48 @@
+[0m[34m[debug] STACK:5228, HEAP:171+1927 (108+1920), BUSY:0%, FPS:50 (S:50 R:0+0), BATT:0
+[0m[34m[debug] STACK:5228, HEAP:171+1927 (108+1920), BUSY:0%, FPS:50 (S:50 R:0+0), BATT:0
+[0m[34m[debug] STACK:5228, HEAP:171+1927 (108+1920), BUSY:0%, FPS:50 (S:50 R:0+0), BATT:0
+[0m[34m[debug] STACK:5228, HEAP:171+1927 (108+1920), BUSY:0%, FPS:50 (S:50 R:0+0), BATT:0
+[0m[34m[debug] STACK:5228, HEAP:171+1927 (108+1920), BUSY:0%, FPS:48 (S:48 R:0+0), BATT:0
+[0m[info] update_viewport_scaling: 160x144@1.111 => 142x128@1.109 left:9 top:0 step_x:1.13 step_y:1.12
+[0m[34m[debug] rg_gui_draw_text: Textbox (pos: 122x0, size: 61x16) will be truncated!
+[0m[34m[debug] rg_gui_draw_text: Textbox (pos: 122x0, size: 61x16) will be truncated!
+[0m[34m[debug] STACK:5228, HEAP:170+1927 (108+1920), BUSY:0%, FPS:37 (S:36 R:0+1), BATT:0
+[0m[34m[debug] rg_gui_draw_text: Textbox (pos: 122x0, size: 61x16) will be truncated!
+[0m[info] rg_audio_set_sink: buzzer 0
+[0m[info] rg_audio_deinit: Audio terminated. sink='Dummy'
+[0m[info] buzzer_init: Configuring speaker for 32000 Hz samplerate
+[0m[info] buzzer_init: PWM frequency=32000 Hz, resolution=11 bits
+[0m[info] rg_audio_init: Audio ready. sink='Buzzer', samplerate=32000, volume=65
+[0m[34m[debug] rg_gui_draw_text: Textbox (pos: 122x0, size: 61x16) will be truncated!
+[0m[34m[debug] STACK:5228, HEAP:168+1927 (108+1920), BUSY:0%, FPS:47 (S:47 R:0+0), BATT:0
+[0m[info] update_viewport_scaling: 160x144@1.111 => 142x128@1.109 left:9 top:0 step_x:1.13 step_y:1.12
+[0m[34m[debug] STACK:5212, HEAP:169+1927 (108+1920), BUSY:80%, FPS:32 (S:15 R:5+12), BATT:0
+[0m[34m[debug] STACK:5212, HEAP:169+1927 (108+1920), BUSY:91%, FPS:37 (S:19 R:18+0), BATT:0
+[0m[info] system_monitor_task: Raised frameskip to 2
+[0m[34m[debug] STACK:5212, HEAP:169+1927 (108+1920), BUSY:91%, FPS:41 (S:27 R:14+0), BATT:0
+[0m[info] system_monitor_task: Raised frameskip to 3
+[0m[34m[debug] STACK:5212, HEAP:169+1927 (108+1920), BUSY:91%, FPS:45 (S:34 R:11+0), BATT:0
+[0m[info] system_monitor_task: Raised frameskip to 4
+[0m[34m[debug] STACK:5212, HEAP:169+1927 (108+1920), BUSY:91%, FPS:47 (S:37 R:10+0), BATT:0
+[0m[info] system_monitor_task: Raised frameskip to 5
+[0m[34m[debug] STACK:5212, HEAP:169+1927 (108+1920), BUSY:91%, FPS:49 (S:41 R:8+0), BATT:0
+[0m[34m[debug] STACK:5212, HEAP:169+1927 (108+1920), BUSY:91%, FPS:49 (S:41 R:8+0), BATT:0
+[0m[34m[debug] STACK:5212, HEAP:169+1927 (108+1920), BUSY:91%, FPS:49 (S:41 R:8+0), BATT:0
+[0m[34m[debug] STACK:5212, HEAP:169+1927 (108+1920), BUSY:0%, FPS:36 (S:36 R:0+0), BATT:0
+[0m[info] update_viewport_scaling: 160x144@1.111 => 142x128@1.109 left:9 top:0 step_x:1.13 step_y:1.12
+[0m[34m[debug] rg_gui_draw_text: Textbox (pos: 122x0, size: 61x16) will be truncated!
+[0m[34m[debug] STACK:5212, HEAP:168+1927 (108+1920), BUSY:0%, FPS:49 (S:48 R:0+1), BATT:0
+[0m[34m[debug] rg_gui_draw_text: Textbox (pos: 122x0, size: 61x16) will be truncated!
+[0m[34m[debug] rg_gui_draw_text: Textbox (pos: 122x0, size: 61x16) will be truncated!
+[0m[info] rg_audio_set_sink: dummy 0
+[0m[info] rg_audio_deinit: Audio terminated. sink='Buzzer'
+[0m[info] rg_audio_init: Audio ready. sink='Dummy', samplerate=32000, volume=65
+[0m[34m[debug] rg_gui_draw_text: Textbox (pos: 122x0, size: 61x16) will be truncated!
+[0m[34m[debug] STACK:5212, HEAP:170+1927 (108+1920), BUSY:0%, FPS:37 (S:37 R:0+0), BATT:0
+[0m[info] update_viewport_scaling: 160x144@1.111 => 142x128@1.109 left:9 top:0 step_x:1.13 step_y:1.12
+[0m[34m[debug] STACK:5212, HEAP:171+1927 (108+1920), BUSY:38%, FPS:38 (S:32 R:5+1), BATT:0
+[0m[34m[debug] STACK:5212, HEAP:171+1927 (108+1920), BUSY:60%, FPS:45 (S:38 R:7+0), BATT:0
+[0m[34m[debug] STACK:5212, HEAP:171+1927 (108+1920), BUSY:60%, FPS:45 (S:37 R:8+0), BATT:0
+[0m[34m[debug] STACK:5212, HEAP:171+1927 (108+1920), BUSY:60%, FPS:45 (S:38 R:7+0), BATT:0
+[0m[34m[debug] STACK:5212, HEAP:171+1927 (108+1920), BUSY:60%, FPS:45 (S:37 R:8+0), BATT:0
+[0m[34m[debug] STACK:5212, HEAP:171+1927 (108+1920), BUSY:60%, FPS:44 (S:37 R:7+0), BATT:0
