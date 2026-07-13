@@ -1,3 +1,5 @@
+不需要改硬件，自带的蜂鸣器可以发音，但是音效一般。
+
 # Table of contents
 - [Description](#description)
 - [Installation](#installation)
